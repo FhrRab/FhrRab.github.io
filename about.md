@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "关于"
+title: "About"
 description: "一个咸鱼蒟蒻 " 
 header-img: "img/R.jpg"
 ---
